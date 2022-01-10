@@ -1,9 +1,0 @@
-library(ggpubr)
-library(tidyverse)
-library(here)
-library(skimr)
-library(janitor)
-library(lubridate)
-library(ggrepel)
-library(waffle)
- 
