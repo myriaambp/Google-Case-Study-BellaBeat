@@ -110,24 +110,11 @@ There is a possibility of experiencing a sampling bias since we are limited to 3
 # <span style="color:#FA8072; font-size:20px;"> 4. Process Phase </span>
 <a class="anchor" id="4"></a>
 The analysis of the data will be conducted in R due to the large and numerous tables in the dataset.
-# <span style="color:#FA8072; font-size:16px;"> 4.1 Installing Packages and Opening Libraries </span>
-<a class="anchor" id="4_1"></a>
-The following packages will be installed:
-* tidyverse
-* here
-* skimr
-* janitor
-* lubridate
-* ggpubr
-* ggrepel
 
-[See Code Here](https://github.com/myriaambp/Google-Case-Study-BellaBeat/blob/main/4.1%20Installing%20Packages%20and%20Opening%20Libraries)
+[See Code Here]()
 
-# <span style="color:#FA8072; font-size:16px;"> 4.2 Import Datasets </span>
-<a class="anchor" id="4_2"></a>
-The following datasets will be used in order to achieve the three underlying goals:
-* sleep_day
-* daily_activity
-* hourly_steps
+# <span style="color:#FA8072; font-size:20px;"> 5. Analyze Phase </span>
+<a class="anchor" id="5"></a>
+By analyzing trends from the Fitbit users, it will help determine how to go about BellaBeat's marketing stratedgy and achieve our three main goals.
 
 [See Code Here]()
