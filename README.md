@@ -121,3 +121,13 @@ The following packages will be installed:
 * ggpubr
 * ggrepel
 
+[See Code Here](https://github.com/myriaambp/Google-Case-Study-BellaBeat/blob/main/4.1%20Installing%20Packages%20and%20Opening%20Libraries)
+
+# <span style="color:#FA8072; font-size:16px;"> 4.2 Import Datasets </span>
+<a class="anchor" id="4_2"></a>
+The following datasets will be used in order to achieve the three underlying goals:
+* sleep_day
+* daily_activity
+* hourly_steps
+
+[See Code Here]()
