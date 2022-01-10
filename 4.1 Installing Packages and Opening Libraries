@@ -1,2 +1,9 @@
- # 4.1 Installing Packages and Opening Libraries
+library(ggpubr)
+library(tidyverse)
+library(here)
+library(skimr)
+library(janitor)
+library(lubridate)
+library(ggrepel)
+library(waffle)
  
